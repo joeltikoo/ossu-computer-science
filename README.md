@@ -19,14 +19,17 @@
   - [Advanced math](#advanced-math)
 - [Final project](#final-project)
 
----
 
 ## Legend
 
-🟢 = Completed
+🟢 = Completed 
+
 🔵 = Alternative course completed
+
 🟡 = In Progress
+
 🟣 = Alternative In Progress
+
 🔴 = Not Started
 
 
